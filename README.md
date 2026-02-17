@@ -90,10 +90,9 @@ npm run dev
 
 ## 📸 Screenshots
 
-|        Setup Profile       |      Test Donations      |
-| :------------------------: | :----------------------: |
-| ![Fund Yourself]<img width="1350" height="717" alt="image" src="https://github.com/user-attachments/assets/bfa4249c-3c45-4e76-b2b0-c0993fae2cf9" />
-| ![Community](<img width="1364" height="722" alt="image" src="https://github.com/user-attachments/assets/d4f4f730-6a2c-4bb6-b42d-4b938640ff63" />
+| Setup Profile | Test Donations |
+| :-----------: | :------------: |
+| <img width="600" alt="Setup Profile" src="https://github.com/user-attachments/assets/bfa4249c-3c45-4e76-b2b0-c0993fae2cf9" /> | <img width="600" alt="Test Donations" src="https://github.com/user-attachments/assets/d4f4f730-6a2c-4bb6-b42d-4b938640ff63" /> |
 
 ---
 
